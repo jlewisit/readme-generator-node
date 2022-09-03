@@ -45,6 +45,26 @@ const questions = [  {
   },
 ];
 
+// Template
+const template = `# ${title}
+
+* [Installation](#installation)
+*[Usage](#usage)
+# github
+${github}
+## email
+${email}
+## Contribution
+### instructions
+## Credits
+## License`
+
+// Use then key word code suggested by tutor below?
+// .then((data) => {
+//   console.log(data);
+// });
+
+
   // Write README
   function writeFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data)
