@@ -7,7 +7,7 @@
 
 function generateMarkDown(data) {
     return `# ${data.title}${data.email}${data.github}
-    # Table of Contents
+    ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
     * [Usage](#usage)

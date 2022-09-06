@@ -1,5 +1,5 @@
-# sss
-    # Table of Contents
+# node-readme-generatorjlewisit@email.comjlewisit
+    ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
     * [Usage](#usage)
@@ -9,7 +9,7 @@
     * [Questions](#questions)
     
     ## Description  
-    s
+    This is a node application that will automatically generate a professional readme.me file.
   
     ## Installation
     undefined
@@ -28,6 +28,6 @@
     undefined
   
     ## Questions
-    - s
+    - jlewisit@email.com
     - Github.com/undefined
   
