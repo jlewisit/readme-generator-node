@@ -45,6 +45,18 @@ const questions = [  {
   },
 ];
 
+// Use this syntax for licensing info.  Make up the licensing types: MIT, etc
+// { example: 'this',
+//  name: 'that',
+//  message: 'Heyyyyy what license you want and stuff?'
+//  choices: [
+//   "choice 1",
+//   "choice 2",
+//   "choice 3",
+//   "None
+// ]
+// }
+
 
 // Use then key word code suggested by tutor below?
 // .then((data) => {

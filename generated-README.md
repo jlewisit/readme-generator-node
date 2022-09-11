@@ -1,4 +1,4 @@
-# title
+# readme-generator-node
     ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
@@ -9,25 +9,25 @@
     * [Questions](#questions)
     
     ## Description  
-    desc
+    This project allows users to automatically generate a readme.
   
     ## Installation
-    install
+    npm install, node index.js
   
     ## Usage
-    usage info
+    Use for professional or educational purposes
   
     ## License
     ![License](https://img.shields.io/badge/License-undefined-blue.svg)
   
     ## Contributions
   
-    guidelines
+    None at this time
   
     ## Tests
-    testing
+    None
   
     ## Questions
-    - em
-    - Github.com/user
+    - jlewisit@email.com
+    - Github.com/jlewisit
   
