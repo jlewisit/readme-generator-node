@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # readme-generator-node
     ## Table of Contents
     * [Description](#description)
@@ -31,3 +32,6 @@
     - jlewisit@email.com
     - Github.com/jlewisit
   
+=======
+![image](https://user-images.githubusercontent.com/102529279/189553386-12b319b6-e183-4b53-9d89-e2a56c4e7f8e.png)
+>>>>>>> daf0a0f838f741a6d02f4e507273894aa6d51d50
