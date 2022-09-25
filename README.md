@@ -15,6 +15,7 @@ node index.js
 ```
 
 I've provided a link to a walkthrough video that demonstrates its functionality. Here is a link to the video: 
+https://watch.screencastify.com/v/pViZA38hYXMymwBn9HXW
 
 
 ## User Story
