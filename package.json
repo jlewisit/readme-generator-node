@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC", "dependencies": {
+  "license": "ISC",
+  "dependencies": {
     "inquirer": "^6.3.1"
   }
-
 }

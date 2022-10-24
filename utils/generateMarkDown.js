@@ -6,7 +6,7 @@
 // }
 
 function generateMarkDown(data) {
-    return `# ${data.title}
+  return `# ${data.title}
     ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
@@ -39,7 +39,6 @@ function generateMarkDown(data) {
     - ${data.email}
     - Github.com/${data.github}
   `;
-  }
+}
 
-
-module.exports = generateMarkDown
+module.exports = generateMarkDown;
